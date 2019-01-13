@@ -1,0 +1,14 @@
+/home/ejb/sandbox/hello-world/bin/Debug/netcoreapp2.1/hello-world.deps.json
+/home/ejb/sandbox/hello-world/bin/Debug/netcoreapp2.1/hello-world.runtimeconfig.json
+/home/ejb/sandbox/hello-world/bin/Debug/netcoreapp2.1/hello-world.runtimeconfig.dev.json
+/home/ejb/sandbox/hello-world/bin/Debug/netcoreapp2.1/hello-world.dll
+/home/ejb/sandbox/hello-world/bin/Debug/netcoreapp2.1/hello-world.pdb
+/home/ejb/sandbox/hello-world/obj/Debug/netcoreapp2.1/hello-world.csprojAssemblyReference.cache
+/home/ejb/sandbox/hello-world/obj/Debug/netcoreapp2.1/hello-world.csproj.CoreCompileInputs.cache
+/home/ejb/sandbox/hello-world/obj/Debug/netcoreapp2.1/hello-world.AssemblyInfoInputs.cache
+/home/ejb/sandbox/hello-world/obj/Debug/netcoreapp2.1/hello-world.AssemblyInfo.cs
+/home/ejb/sandbox/hello-world/obj/Debug/netcoreapp2.1/hello-world.dll
+/home/ejb/sandbox/hello-world/obj/Debug/netcoreapp2.1/hello-world.pdb
+/home/ejb/sandbox/hello-world/obj/Debug/netcoreapp2.1/hello-world.RazorAssemblyInfo.cache
+/home/ejb/sandbox/hello-world/obj/Debug/netcoreapp2.1/hello-world.RazorAssemblyInfo.cs
+/home/ejb/sandbox/hello-world/obj/Debug/netcoreapp2.1/hello-world.RazorTargetAssemblyInfo.cache
